@@ -1,0 +1,13 @@
+{
+  "name": "island-outpost-battle-royale-server",
+  "version": "1.0.0",
+  "description": "Node.js + Express + Socket.io Matchmaking & Multiplayer Server for Island Outpost 3D Battle Royale",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
